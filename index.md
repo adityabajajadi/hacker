@@ -12,7 +12,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #39ff14;
   letter-spacing: 1px;
-  text-shadow: 0 0 8px #39ff14, 0 0 2px #fff;
+  text-shadow: 0 0 1px #39ff14, 0 0 2px #fff;
 }
 hr {
   border: 0;
