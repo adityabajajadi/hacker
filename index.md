@@ -116,5 +116,3 @@ Feel free to reach out via:
 
 ---
 
-
-just add the css to imporve the view and uniform all image sizes
