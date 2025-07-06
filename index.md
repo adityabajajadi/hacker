@@ -40,6 +40,7 @@ I'm a self-driven developer currently exploring cloud-native architectures and D
 ## 📂 Projects
 
 ### 🚀 Smart Cart Checkout System
+![Smart Cart Checkout System](cart.jpg)
 > An automated cart billing system using RFID, weight, and IR sensors to detect and bill items in real-time.
 
 - Built a sensor-based system that tracks items placed in the cart.
@@ -49,6 +50,7 @@ I'm a self-driven developer currently exploring cloud-native architectures and D
 ---
 
 ### 🔐 Face & OTP-Based Two-Factor Authentication
+![Face & OTP-Based 2FA](Auth.jpg)
 > Developed a 2FA login system using face recognition and email OTP verification.
 
 - Trained facial recognition model with OpenCV.
@@ -58,6 +60,7 @@ I'm a self-driven developer currently exploring cloud-native architectures and D
 ---
 
 ### 📊 E-Commerce Analytics Dashboard
+![E-Commerce Analytics Dashboard](dashboard.png)
 > Built an interactive dashboard for tracking user behavior, conversions, and product performance.
 
 - Built with **React.js**, **Chart.js**, and **Flask backend**.
@@ -68,7 +71,7 @@ I'm a self-driven developer currently exploring cloud-native architectures and D
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityabajajadi&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -85,9 +88,9 @@ I'm a self-driven developer currently exploring cloud-native architectures and D
 
 Feel free to reach out via:
 
-- 📧 Email: [you@example.com](mailto:you@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio Website: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: [you@example.com](bajajadi7@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/aditya-bajaj-18a14327a/)
+- 🌐 Portfolio Website: [yourwebsite.com](https://adityabajajadi.github.io/hacker/)
 
 ---
 
@@ -96,13 +99,19 @@ Feel free to reach out via:
 > _"Code is like humor. When you have to explain it, it’s bad."_  
 > — Cory House
 
+--- 
+
+## 📝 Blog
+
+- [Understanding Microservices Architecture](https://yourblog.com/microservices-architecture)
+- [Building Scalable Web Applications](https://yourblog.com/scalable-web-apps)
+- [DevOps Best Practices](https://yourblog.com/devops-best-practices)
+- [Automating CI/CD Pipelines](https://yourblog.com/ci-cd-automation)
+- [Exploring Cloud-Native Development](https://yourblog.com/cloud-native-development)
+
 ---
 
-## 📷 Gallery
-<img src="https://source.unsplash.com/featured/?coding,developer" alt="Gallery of coding and developer" />
-
-### My Dev Setup
-
-<img src="https://source.unsplash.com/featured/?developer,desk" alt="Developer desk setup" />
+## My Dev Setup
+![mydevsetup.jpg](mydevsetup.jpg)
 
 ---
