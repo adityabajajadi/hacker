@@ -88,9 +88,9 @@ I'm a self-driven developer currently exploring cloud-native architectures and D
 
 Feel free to reach out via:
 
-- 📧 Email: [you@example.com](bajajadi7@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/aditya-bajaj-18a14327a/)
-- 🌐 Portfolio Website: [yourwebsite.com](https://adityabajajadi.github.io/hacker/)
+- 📧 Email: [bajajadi7@gmail.com](mailto:you@example.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/aditya-bajaj-18a14327a/](https://linkedin.com/in/yourprofile)
+- 🌐 Portfolio Website: [https://adityabajajadi.github.io/hacker/](https://yourwebsite.com)
 
 ---
 
