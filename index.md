@@ -1,123 +1,108 @@
 ---
 layout: default
+title: My Developer Portfolio
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# 👨‍💻 Aditya Bajaj — Software Developer
 
-[Link to another page](./another-page.html).
+Welcome to my portfolio! I'm a passionate full-stack developer with experience building scalable web applications, automating workflows, and deploying robust backend systems. I love turning ideas into reality using technology.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 🔍 About Me
 
-# Header 1
+I'm a self-driven developer currently exploring cloud-native architectures and DevOps practices. I have a strong foundation in **Java**, **Python**, and **JavaScript**, with a deep interest in backend engineering, system design, and automation. In my free time, I contribute to open-source projects and write technical blogs.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## 🛠️ Skills
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Programming Languages:
+- Java
+- Python
+- JavaScript (ES6+)
+- SQL
 
-### Header 3
+### Web Technologies:
+- HTML5, CSS3, Bootstrap
+- React.js
+- Node.js, Express
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Tools & Platforms:
+- Git & GitHub
+- Docker & Kubernetes
+- AWS (EC2, S3, Lambda)
+- MySQL, MongoDB
+- Jenkins, GitHub Actions
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## 📂 Projects
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### 🚀 Smart Cart Checkout System
+> An automated cart billing system using RFID, weight, and IR sensors to detect and bill items in real-time.
 
-##### Header 5
+- Built a sensor-based system that tracks items placed in the cart.
+- Real-time billing dashboard with REST API using **Spring Boot**.
+- Data logged and visualized using **Grafana**.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+### 🔐 Face & OTP-Based Two-Factor Authentication
+> Developed a 2FA login system using face recognition and email OTP verification.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+- Trained facial recognition model with OpenCV.
+- Used **Firebase** for OTP verification and push notifications.
+- Implemented image storage and admin alerting via FCM.
 
-### There's a horizontal rule below this.
+---
 
-* * *
+### 📊 E-Commerce Analytics Dashboard
+> Built an interactive dashboard for tracking user behavior, conversions, and product performance.
 
-### Here is an unordered list:
+- Built with **React.js**, **Chart.js**, and **Flask backend**.
+- Integrated with **Google Analytics API** and internal APIs.
+- Role-based access and dynamic theming.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+## 📈 GitHub Stats
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
 
-### And a nested list:
+---
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+## 🏆 Achievements
 
-### Small image
+- 🥇 Winner — VIT Hackathon 2024 (Built a full-stack AI scheduling app)
+- 🥈 Finalist — Smart India Hackathon (SIH)
+- 👨‍🏫 Hosted Git/GitHub workshops for over 100+ students
+- ⭐ Contributed to 5+ open source repositories
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+---
 
-### Large image
+## 📫 Contact Me
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Feel free to reach out via:
 
+- 📧 Email: [you@example.com](mailto:you@example.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🌐 Portfolio Website: [yourwebsite.com](https://yourwebsite.com)
 
-### Definition lists can be used with HTML syntax.
+---
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## 💬 Quote
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+> _"Code is like humor. When you have to explain it, it’s bad."_  
+> — Cory House
 
-```
-The final element.
-```
+---
+
+## 📷 Gallery
+<img src="https://source.unsplash.com/featured/?coding,developer" alt="Gallery of coding and developer" />
+
+### My Dev Setup
+
+<img src="https://source.unsplash.com/featured/?developer,desk" alt="Developer desk setup" />
+
+---

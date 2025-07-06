@@ -1,5 +1,8 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+title: Aditya Bajaj
+description: >
+  💻 Full-Stack Developer  
+  ☁️ Cloud | 🔐 Secure Auth | 🚀 DevOps  
+  🎯 Clean Code | Scalable Systems
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
